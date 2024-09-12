@@ -58,9 +58,9 @@ Observations:
 The model performed well during periods of moderate volatility but struggled to capture extreme market movements, particularly sharp drops or spikes.
 This behavior suggests that the model may benefit from further tuning or the inclusion of additional market factors (e.g., macroeconomic indicators like inflation, GDP).
 
-**Key Findings
-Model Strengths:
-**
+**Key Findings**
+**Model Strengths:**
+
 The Random Forest model demonstrated good performance in capturing the general trend of S&P 500 returns during stable market periods.
 The inclusion of multiple features such as volatility, RSI, and macroeconomic data improved the model's ability to capture market fluctuations.
 Model Limitations:
